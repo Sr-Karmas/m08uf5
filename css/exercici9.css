@@ -1,0 +1,41 @@
+body{
+    background-color:green
+}
+p {
+    color: pink;
+    font-size: 30px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+img{
+    width: 30px;
+    height: 30px;
+}
+table, td, th{
+    border: 1px solid yellowgreen;
+    border-collapse: collapse;
+    text-align: center;
+}
+td{
+    background-color:blueviolet;
+}
+
+.tamanyoimagen
+{
+    width: 1000px; 
+    height: 200px;   
+}
+.rojo
+{
+    color: red
+}
+#terceralinea
+{
+    background-color:blue
+}
+.fondoblanco
+{
+    background-color: white;
+    color: black
+    
+    
+}
