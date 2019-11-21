@@ -1,0 +1,25 @@
+.negrita
+{
+    text-decoration: underline;
+    font-weight: bold
+}
+.Info
+{
+    background-color: skyblue;
+}
+.Nacionalidad
+{
+    background-color: green
+}
+.Rangos
+{
+    background-color: rgba(255, 0, 0, 0.589)
+}
+.Idiomas
+{
+    background-color: peachpuff
+}
+.Enviar
+{
+    background-color: mediumpurple
+}
