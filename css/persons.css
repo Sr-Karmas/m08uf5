@@ -5,8 +5,7 @@ table{
     text-align: center;
     border: 1px solid;
     margin: auto;
-    font-size: 30px;
-    
+    font-size: 30px;  
 }
 td{
     border: 1px solid
@@ -30,10 +29,14 @@ h1{
     background-color: red;
 }
 a{
-    color: blue
+    color: blue;
+    
+    
 }
 a:hover{
-    color:green
+    color:green;
+    font-size: 60px
+
 }
 .l:hover{
     color:green;
