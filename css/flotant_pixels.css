@@ -1,0 +1,97 @@
+#imatge{
+    border: 1px solid white;
+    width: 604px;
+    height: 604px;
+}
+#cuadro1{
+    float: left;
+    border: 1px solid white;
+    width: 400px;
+    height: 100px;
+    background-color: green;
+}
+#cuadro2{
+    float: right;
+    border: 1px solid white;
+    width: 200px;
+    height: 100px;
+    background-color: greenyellow;
+}
+#cuadro3{
+    float: left;
+    width: 200px;
+    height: 200px;
+    background-color: black;
+    border: 1px solid white;
+}
+#cuadro4{
+    float: left;
+    width: 198px;
+    height: 200px;
+    background-color: greenyellow;
+    border: 1px solid white;
+}
+#cuadro5{
+    float: right;
+    border: 1px solid white;
+    width: 200px;
+    height: 98px;
+    background-color: green;
+}
+#cuadro6{
+    float: left;
+    width: 200px;
+    height: 100px;
+    background-color: greenyellow;
+    border: 1px solid white;
+}
+#cuadro7{
+    float: left;
+    border: 1px solid white;
+    width: 400px;
+    height: 100px;
+    background-color: green;
+}
+#cuadro8{
+    float: right;
+    width: 200px;
+    height: 200px;
+    background-color: black;
+    border: 1px solid white;
+}
+
+#cuadro9{
+    float: left;
+    border: 1px solid white;
+    width: 400px;
+    height: 98px;
+    background-color: green;
+}
+#cuadro10{
+    float: left;
+    width: 200px;
+    height: 96px;
+    background-color: greenyellow;
+    border: 1px solid white;
+}
+#cuadro11{
+    float: left;
+    width: 198px;
+    height: 96px;
+    background-color: greenyellow;
+    border: 1px solid white;
+}
+#cuadro12{
+    float: right;
+    width: 200px;
+    height: 96px;
+    background-color: greenyellow;
+    border: 1px solid white;
+}
+
+
+
+
+
+
+
