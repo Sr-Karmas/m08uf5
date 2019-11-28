@@ -1,0 +1,10 @@
+#todo{
+    height: 100%;
+    width: 100%;
+    border: 1px solid black;
+}
+#cabecera{
+    height: 100%;
+    width: 100%;
+    background-color: red
+}

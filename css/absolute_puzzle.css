@@ -1,0 +1,103 @@
+#primero{
+    position: relative;
+    width:600px;
+    height: 600px;
+}
+#cuadro1{
+    position: absolute;
+    border: 1px solid white;
+    width: 400px;
+    height: 100px;
+    background-color: green;
+}
+#cuadro2{
+    position: absolute;
+    left:404px;
+    width: 200px;
+    height: 100px;
+    background-color: greenyellow;
+}
+#cuadro3{
+    position: absolute;
+    top: 102px;
+    width: 200px;
+    height: 200px;
+    background-color: black;
+}
+#cuadro4 {
+    position: absolute;
+    top: 102px;
+    left: 201px;
+    width: 200px;
+    height: 300px;
+    background-color: green
+}
+#cuadro5{
+    position: absolute;
+    top: 303px;
+    width: 200px;
+    height: 100px;
+    background-color: green;
+}
+#cuadro6{
+    position: absolute;
+    top: 102px;
+    left: 404px;
+    width: 200px;
+    height: 100px;
+    background-color: green;
+}
+#cuadro7{
+    position: absolute;
+    top: 203px;
+    left: 404px;
+    width: 200px;
+    height: 100px;
+    background-color: greenyellow;
+}
+
+#cuadro9{
+    position: absolute;
+    top: 305px;
+    left: 404px;
+    width: 200px;
+    height: 200px;
+    background-color: black;
+}
+#cuadro10{
+    position: absolute;
+    top: 405px;
+    width: 200px;
+    height: 200px;
+    background-color: black;
+}
+#cuadro11{
+    position: absolute;
+    top: 507px;
+    left: 404px;
+    width: 200px;
+    height: 100px;
+    background-color: greenyellow;
+}
+#cuadro12{
+    position: absolute;
+    top: 404px;
+    left: 202px;
+    width: 200px;
+    height: 100px;
+    background-color: greenyellow;
+}
+#cuadro13{
+    position: absolute;
+    top: 506px;
+    left: 202px;
+    width: 200px;
+    height: 100px;
+    background-color: green;;
+}
+#imagen{
+    position: absolute;
+    top: 623px;
+}
+
+
