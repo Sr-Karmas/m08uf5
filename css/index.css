@@ -1,10 +1,48 @@
+
 #todo{
     height: 100%;
     width: 100%;
-    border: 1px solid black;
+    border: 1px solid white;
 }
 #cabecera{
-    height: 100%;
+    background-color: red;
+    height:20% ;
     width: 100%;
-    background-color: red
+    padding-left: 20px;
 }
+#cabecera2{
+text-align: center;
+}
+
+#izquierda
+{
+    float: left;
+    height: 100%;
+    width: 25%;
+    background-color: gray;
+    margin-top: -22px
+}
+#derecha
+{
+    float: left;
+    height: 100%;
+    width: 50%;
+    background-color: rebeccapurple;
+    margin-top: -22px
+
+}
+#derecha2
+{
+    float: left;
+    height: 100%;
+    width: 25%;
+    background-color: gray;
+    margin-top: -22px
+
+}
+#centro
+{
+    width: 100%;
+    height: 25%;
+}
+
