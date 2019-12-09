@@ -1,0 +1,73 @@
+/*1era part */
+#contain_wrapper
+{
+    width: 900px;
+    margin: auto;
+
+}
+
+header
+{
+	background-color: red
+}
+
+header img
+{
+    height: 50px;
+    width: 25%
+}
+
+#tituloprincipal
+{
+    display: inline-block;
+    background-color: blue
+}
+
+header h1
+{
+    font-family: serif;
+    size: 2.5em;
+    font-weight: normal;
+}
+
+header h2
+{
+    font-family: Verdana, Geneva, Tahoma, sans-serif serif;
+    font-size: 1.1em;
+    margin-top: 0px;
+    font-weight: normal;
+}
+
+header img, header h1
+{
+    display: inline-block;
+    margin-bottom: 0px;
+}
+nav
+{
+display: inline-block;
+width: 540px; 
+text-align: right;
+background-color: orange;
+}
+
+nav ul
+{
+    list-style-type: none;
+}
+
+nav li
+{
+    display: inline-block;
+    margin-right: 15px;
+}
+
+nav a
+{
+
+}
+
+nav a:hover
+{
+
+}
