@@ -238,9 +238,9 @@ list-style-image: url(imatges/external_link.png)
 
 footer
 {
-    background:url(imatges/top.png) no-repeat top center;
-    background:url(imatges/line.png) repeat-x top;
-    background:url(imatges/shadow.png) repeat-x top;
+    background:url(imatges/top.png) no-repeat top center url(imatges/shadow.png) repeat-x top url(imatges/line.png) repeat-x top;
+
+    
     padding-top: 25px;
  
     

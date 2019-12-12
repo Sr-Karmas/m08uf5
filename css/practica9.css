@@ -1,0 +1,103 @@
+#uno
+{
+    border-radius: 25px;
+  background: #73AD21;
+  padding: 20px;
+  width: 200px;
+  height: 150px;
+  display: inline-block
+}
+#dos
+{
+  border-radius: 15px 50px;
+  border: 2px solid #73AD21;
+  background: #73AD21;
+  padding: 20px;
+  width: 200px;
+  height: 150px; 
+  display: inline-block
+}
+#tres
+{
+  border-radius: 25px 50px 75px 100px;
+  border: 2px solid #73AD21;
+  background: #73AD21;
+  padding: 20px;
+  width: 200px;
+  height: 150px; 
+  display: inline-block
+}
+#cuatro
+{
+  border-radius: 75px 100px 75px 50px;
+  border: 2px solid #73AD21;
+  background: #73AD21;
+  padding: 20px;
+  width: 200px;
+  height: 150px; 
+  display: inline-block
+}
+#p1
+{background-color: rgba(255, 0, 0, 0.2);}
+#p2
+{background-color: rgba(255, 0, 0, 0.4);}
+#p3
+{background-color: rgba(255, 0, 0, 0.6);}
+#p4
+{background-color: rgba(255, 0, 0, 0.8);}
+#centrado{
+  background-image: linear-gradient(red, yellow);
+  width: 500px;
+  height: 150px;
+  text-align: center;
+}
+#izquierda
+{
+  background-image: linear-gradient( to right, red , yellow);
+  width: 500px;
+  height: 150px;
+  text-align: left;
+}
+#circulo {
+  background-image: radial-gradient(circle, red, yellow, green);
+  width: 500px;
+  height: 500px;
+}
+
+#sombra{
+  text-shadow: 2px 2px 5px  blue; 
+  font-size: 40px;
+  display: inline-block;
+}
+#sombra2{
+  color:white;
+  text-shadow: 1px 1px 2px black, 0 0 25px blue, 0 0 5px darkblue;
+    font-size: 40px;
+  display: inline-block;
+}
+#sombra3{
+  box-shadow: 10px 10px;
+  background-color: aqua;
+  height: 200px;
+  width: 200px;
+  display: inline-block;
+  margin: 30px
+
+
+}
+
+#sombra4{
+  box-shadow: 10px 10px grey;
+  background-color: green;
+  height: 200px;
+  width: 200px;
+  display: inline-block;
+  
+}
+
+
+
+
+
+
+
