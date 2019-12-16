@@ -1,3 +1,7 @@
+@font-face {
+  font-family: myFirstFont;
+  src: url(../Media/asterik/Asterik_Demo.ttf);
+}
 #uno
 {
     border-radius: 25px;
@@ -50,6 +54,8 @@
   width: 500px;
   height: 150px;
   text-align: center;
+  font-family: "myFirstFont";
+
 }
 #izquierda
 {
@@ -57,6 +63,7 @@
   width: 500px;
   height: 150px;
   text-align: left;
+  font-family: "myFirstFont";
 }
 #circulo {
   background-image: radial-gradient(circle, red, yellow, green);
@@ -64,10 +71,16 @@
   height: 500px;
 }
 
+
+
+
 #sombra{
   text-shadow: 2px 2px 5px  blue; 
   font-size: 40px;
   display: inline-block;
+  
+
+  
 }
 #sombra2{
   color:white;
@@ -94,6 +107,78 @@
   display: inline-block;
   
 }
+#trans {
+  transform: translate(90px, 100px);
+  background-color: blue;
+  height: 200px;
+  width: 200px;
+  display: inline-block;
+
+}
+#trans2 {
+  transform: rotate(30deg);
+  background-color: blue;
+  height: 200px;
+  width: 200px;
+  display: inline-block;
+  margin-left: 150px;
+}
+#trans3 {
+  transform: scale(2, 3);
+  background-color: blue;
+  height: 100px;
+  width: 100px;
+  display: inline-block;
+  margin-left: 100px;
+}
+#ancho{
+  height: 340px;
+}
+#animado:hover{
+  background-color: #73AD21;
+  width: 130px;
+  height: 80px;
+  font-size: 30px;
+  color:white;
+  position: absolute;
+  font-weight: bold;
+  padding: 10px;
+float: left;
+margin: 5px;
+transition-property: width,height,transform,background,font-size,opacity;
+transition-duration: 2s;
+border-radius: 5px;
+box-sizing: inherit
+}
+#ejer7{
+  height: 140px;
+}
+#ejer8{
+  height: 400px;
+}
+#repetir{
+  width: 100px;
+  height: 100px;
+  position: relative;
+  background-color: red;
+  animation-duration: 4s;
+  animation-delay:2s;
+  animation-name: repetir;
+  animation-iteration-count: 3
+ 
+}
+@keyframes repetir{
+ 
+  0%   {background-color:red; left:0px; top:0px;}
+  25%  {background-color:yellow; left:200px; top:0px;}
+  50%  {background-color:blue; left:200px; top:200px;border-radius: 30%}
+  75%  {background-color:green; left:0px; top:200px;border-radius: 60%}
+  100% {background-color:red; left:0px; top:0px;border-radius: 90%}
+}
+#columnas{
+  column-count: 3;
+}
+
 
 
 
