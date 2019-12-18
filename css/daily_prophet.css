@@ -1,0 +1,81 @@
+main{
+    width: 830px;
+    height: 1150px;
+    border: 2px solid black;
+    background-color: #fef2cd
+
+}
+#cabecera{
+    position: absolute;
+}
+#tiempo{
+    position: absolute;
+    top: 162px;
+}
+
+#nombre
+{
+    position: absolute;
+    top: 253px;
+    left: 37px;
+}
+#izquierda1{
+    position: absolute;
+    top: 387px;
+    left: 37px;;
+
+}
+#izquierda2{
+    position: absolute;
+    top: 555px;
+    left: 37px;
+    margin-top: 10px
+
+}
+#izquierda3{
+    position: absolute;
+    top: 842px;
+    left: 37px;
+    margin-top: 10px
+
+}
+#sighted
+{
+    position: absolute;
+    top: 385px;
+    left: 183px
+}
+#gift
+{
+    position: absolute;
+    top: 530px;
+    left: 183px;
+    height: 442px;
+    width: 442px;
+}
+#pie{
+    position: absolute;
+    top: 977px;   
+    left: 183px;
+}
+#piedepagina{
+    position: absolute;
+    top: 1127px;
+    left: 37px;
+
+}
+#derecha1{
+    position: absolute;
+    top: 387px;
+    left: 641px;
+    height: 467px;
+
+}
+#derecha2{
+    position: absolute;
+    top: 835px;
+    left: 641px;
+    margin-top: 10px;
+
+}
+
