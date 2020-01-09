@@ -1,0 +1,25 @@
+h1{
+    text-align: center;
+}
+.container{
+    border: 5px solid white
+}
+.verde{
+    background-color: green;
+    height: 80px;
+}
+.akai {
+    background-color: red;
+}
+.purple{
+    background-color: purple;
+    height: 80px;
+}
+.orange{
+    background-color: orange;
+    height: 80px;
+}
+.blu{
+    background-color: blue;
+    height: 80px;
+}
