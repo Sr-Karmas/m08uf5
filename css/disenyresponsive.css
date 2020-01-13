@@ -1,25 +1,23 @@
 h1{
     text-align: center;
 }
-.container{
-    border: 5px solid white
-}
+div{
+    border: 5px solid white;
+  }
 .verde{
     background-color: green;
     height: 80px;
 }
-.akai {
-    background-color: red;
+
+.rosa{
+      background-color: violet;
+      height: 80px;
 }
-.purple{
-    background-color: purple;
-    height: 80px;
+.naranja{
+      background-color: orange;
+      height: 200px;
 }
-.orange{
-    background-color: orange;
-    height: 80px;
-}
-.blu{
-    background-color: blue;
-    height: 80px;
+.azul{
+      background-color: blue;
+      height: 80px;
 }
