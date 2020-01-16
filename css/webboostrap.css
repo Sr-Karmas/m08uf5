@@ -1,0 +1,52 @@
+h1, h3{
+    text-align: center
+}
+.patrocinadors{
+    background-color: blue;
+    color:white;
+    font-size: 50px;
+
+}
+.patrocinadors2{
+    color:aqua;
+    font-size: 70px;
+}
+.imagenes{
+    height: 200px;
+    width:200px 
+}
+.rosa{
+    background-color: pink;
+
+}
+.rojo{
+    background-color: red
+}
+.una{
+    background-color: skyblue
+}
+.dos{
+    background-color: red
+
+}
+.tres{
+    background-color: yellow
+
+}
+.cuatro{
+    background-color: greenyellow
+}
+footer{
+    background-color: green;
+    color: white;
+    text-align: center;
+    font-size: 2em
+}
+.quitar{
+    margin: 0px
+}
+@media screen and (max-width:768px){
+    footer{
+        font-size:1em;
+    }
+}
