@@ -1,0 +1,63 @@
+
+body{
+    background-image: url(../imagenes/csgo.png) ;
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+   min-height: 1800px
+}
+
+img{
+    height: 800px;
+    width: 800px;
+}
+h1{
+    text-align: center;
+    color: orange;
+    font-size: 75px;
+    height: 100%;
+    width: 100%;
+}
+
+p{
+    color:white;
+    text-align: center;
+   
+}
+h3{
+    text-align: center;
+    color: orange;
+    font-size: 50px;
+    height: 100%;
+    width: 100%;
+}
+
+
+
+
+
+h3{
+    text-align: center;
+    color: orange;
+    font-size: 50px;
+    height: 100%;
+    width: 100%;
+}
+
+#repetir{
+    width: 100px;
+    height: 100px;
+    position: relative;
+    background-color: red;
+    animation-duration: 4s;
+    animation-delay:2s;
+    animation-name: repetir;
+    animation-iteration-count: 3
+   
+  }
+@keyframes repetir{
+    0%   {background-color:red; left:0px; top:0px;}
+  25%  {background-color:yellow; left:200px; top:0px;}
+  50%  {background-color:blue; left:200px; top:200px;border-radius: 30%}
+  75%  {background-color:green; left:0px; top:200px;border-radius: 60%}
+  100% {background-color:red; left:0px; top:0px;border-radius: 90%}
+}
